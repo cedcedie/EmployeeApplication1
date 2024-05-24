@@ -89,6 +89,7 @@ namespace EmployeeApplication1
             basic_salary = hoursWorked * ratePerHour;
         }
 
+        //get salary
         public double getSalary()
         {
             return this.basic_salary;
